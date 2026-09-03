@@ -17,7 +17,7 @@ void reverseString(char str[]) {
 }
 
 int main() {
-    char str[100] = "rukhaam";
+    char str[100] = "abcd";
     reverseString(str);
     return 0;
 };
