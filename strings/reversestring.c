@@ -17,7 +17,8 @@ void reverseString(char str[]) {
 }
 
 int main() {
-    char str[100] = "dad";
+    char str[100] = "mom";
+
     reverseString(str);
     return 0;
 };
