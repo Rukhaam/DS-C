@@ -21,7 +21,7 @@ void concatstr(char str1[],char str2[]){
 
 int main(){
     char str1[100] = "HELLO";
-    char str2[100] = "pendu";
+    char str2[100] = "RUKHAAM";
 
     concatstr(str1,str2);
     return 0;
